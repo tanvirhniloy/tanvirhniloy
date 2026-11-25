@@ -1,14 +1,15 @@
 <img
-  src="https://capsule-render.vercel.app/api type=waving&height=300&color=gradient&section=header&reversal=true&text=TANVIR+HASAN&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=200&section=header&text=Tanvir%20Hasan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
   width="100%"
 />
 <p align="center">
   <img
-    img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=CSE+Graduate;AI+%26+ML+Enthusiast;Founder+of+NextPath+AI;Exploring+AI;Data+Science+%26+Software+Development" alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CSE+Undergraduate;AI+%26+Machine+Learning+Enthusiast;Founder+of+NextPath+AI;Building+Ideas+Into+Reality"
+    alt="Typing introduction"
   />
 </p>
 <p align="center">
-  <a href="https://github.com/tanvirhniloy">
+  <a href="https://github.com/tanvirhniloy1">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
